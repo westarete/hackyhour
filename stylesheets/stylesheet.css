@@ -155,9 +155,18 @@ header a.button {
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
-header .rsvp {
-  margin-top: 75px;
+header aside {
+  padding-top: 75px;
   float: right;
+  text-align: center;
+}
+header aside .contact {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #ffffff;
+}
+header aside .contact a {
+  color: #ffffff;
 }
 aside a.button {
   width: 138px;
