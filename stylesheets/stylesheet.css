@@ -156,7 +156,7 @@ header a.button {
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 header aside {
-  padding-top: 75px;
+  padding-top: 33px;
   float: right;
   text-align: center;
 }
@@ -460,10 +460,6 @@ footer a:hover {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;                     
     border-radius: 5px;    
-  }
-  header .rsvp {
-    float: none;
-    margin: 0 0 15px 0;
   }
   header a.button small {
     font-size: 13px;
