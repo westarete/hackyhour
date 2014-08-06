@@ -13,6 +13,9 @@ you shouldn't need to set up a host for it.
 If we want to do anything fancier than a static page down the road, then we can 
 use [Jekyll](http://jekyllrb.com/), since that's supported out of the box by GitHub Pages too.
 
+Here the [management console for our Google Maps API key](https://code.google.com/apis/console/b/0/?noredirect&pli=1#project:585355924652:overview) 
+(only accessible to a few users @westarete.com).
+
 ## Deployment
 
 You just push to github to deploy. Github follows the convention that the site will be in a `gh-pages` branch, 
