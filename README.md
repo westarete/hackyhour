@@ -4,8 +4,13 @@ The public website for <http://hackyhour.com>, created with [GitHub Pages](https
 
 ## Development
 
-For now, it's just a static web page. Resources are linked such that you can just open the file in your browser --
-you shouldn't need to set up a host for it. If we want to do anything fancier down the road, then we can 
+For now, it's just a static web page. We started out by generating a page from GitHub's "Architect" theme, and
+then we edited the HTML and CSS for our own content. 
+
+The resources are linked such that you can just open the file in your browser while you're developing --
+you shouldn't need to set up a host for it. 
+
+If we want to do anything fancier than a static page down the road, then we can 
 use [Jekyll](http://jekyllrb.com/), since that's supported out of the box by GitHub Pages too.
 
 ## Deployment
