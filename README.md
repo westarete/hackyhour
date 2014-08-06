@@ -1,6 +1,6 @@
 # Hacky Hour
 
-The public website for hackyhour.com, created with [GitHub Pages](https://pages.github.com/).
+The public website for <http://hackyhour.com>, created with [GitHub Pages](https://pages.github.com/).
 
 ## Development
 
