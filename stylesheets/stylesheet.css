@@ -131,6 +131,11 @@ aside#sidebar h3 {
   margin-bottom: 8px;
 }
 
+.partner-logo {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
 #downloads {
   margin-bottom: 40px;
 }
